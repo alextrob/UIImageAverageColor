@@ -12,5 +12,6 @@
 
 - (UIColor *)averageColor;
 - (UIColor *)mergedColor;
+- (UIColor *)edgeColor;
 
 @end
